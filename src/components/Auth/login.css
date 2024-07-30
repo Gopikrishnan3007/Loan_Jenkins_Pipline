@@ -1,0 +1,53 @@
+
+input.form-control{
+    padding: 11px;
+    border: none;
+    border: 2px solid #405c7cb8;
+    border-radius: 30px;
+    background-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+   
+   
+}
+input.form-control:focus{
+    box-shadow: none !important;
+    outline: 0px !important;
+    background-color: transparent;
+}
+button.login-btn{
+    background: #b400ff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+}
+.register-test a{
+    color: #000;
+}
+.social-login button{
+    border-radius: 30px;
+}
+.cards {
+   
+    height: auto;
+    padding: 35px;
+    width: 500px;
+  
+    border: 1px solid rgba(255, 255, 255, .25);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.571);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  
+    backdrop-filter: blur(15px);
+  }
+  .body1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 30px;
+    margin: 0;
+    background:
+      url(2.jpg)
+      center / cover no-repeat fixed ;
+  }
